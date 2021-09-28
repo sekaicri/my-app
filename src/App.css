@@ -1,5 +1,20 @@
-.App {
-  text-align: center;
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #2c3e50;
+  margin-top: 10px;
+}
+ 
+#scenewrapper {
+  width: 600px;
+  height: 600px;
+} 
+ 
+.spacer {
+  background-color: #888;
+  width: 100vw;
+  height: 1000px;
 }
 
 .App-logo {
